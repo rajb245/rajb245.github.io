@@ -1,5 +1,5 @@
 AUTHOR = 'Raj Bhattacharjea'
-SITENAME = 'Raj Bhattacharjea'
+SITENAME = 'Homepage of Raj Bhattacharjea'
 SITEURL = ''
 
 PATH = 'content'

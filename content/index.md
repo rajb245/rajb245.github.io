@@ -1,6 +1,7 @@
 ---
 title: Raj Bhattacharjea
 date: 2023-02-03 10:20
+Category: About Me
 ---
 ![Picture of Raj Bhattacharjea](/images/RajBhattacharjea_Nov2015_square_200px.png){: style="float:left;border-radius:50%;padding-right:10px;width:100px;height:100px"}
 I am an Electrical Engineer by training and I'm working as a Machine Learning

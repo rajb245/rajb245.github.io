@@ -1,1 +1,3 @@
 site_name: Raj Bhattacharjea
+markdown_extensions:
+    - attr_list

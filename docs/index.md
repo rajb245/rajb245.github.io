@@ -12,7 +12,6 @@ Engineer for DeepSig Inc. I'm also an Adjunct Research Engineer with the School
 of Electrical and Computer Engineering at Georgia Tech. My goals include 
 conducting and publishing research in the areas of machine learning for radio
 and optical communication systems.  
-
 ________________________________________________________________________________
 # Recent Interests
 Machine Learning and Artificial Intelligence for Radio Signal Processing

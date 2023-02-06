@@ -1,3 +1,5 @@
-site_name: Raj Bhattacharjea
+site_name: Raj Bhattacharjea's Homepage
 markdown_extensions:
     - attr_list
+theme:
+  name: material

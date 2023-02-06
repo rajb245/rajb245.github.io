@@ -4,7 +4,7 @@ date: 2023-02-03 10:20
 Category: About Me
 ---
 # Raj Bhattacharjea [![Twitter Profile](images/socials_twitter.png)](https://twitter.com/rajb245){: style="float:right;width:40px;height:40px;margin-left:5px"} [![LinkedIn Profile](images/socials_linkedin.png)](https://www.linkedin.com/in/raj-bhattacharjea/){: style="float:right;width:40px;height:40px;margin-left:5px"} [![ResearchGate Profile](images/socials_researchgate.png)](https://www.researchgate.net/profile/Raj_Bhattacharjea){: style="float:right;width:40px;height:40px;margin-left:5px"} [![Google Scholar Profile](images/socials_googlescholar.svg)](https://scholar.google.com/citations?user=kDQoTnUAAAAJ&hl=en){: style="float:right;width:40px;height:40px;margin-left:5px"}
-
+<!-- :simple-googlescholar::fontawesome-brands-researchgate::fontawesome-brands-linkedin::fontawesome-brands-square-twitter: -->
 <!-- ![Picture of Raj Bhattacharjea](images/RajBhattacharjea_Nov2015_square_200px.png){: style="float:left;border-radius:50%;padding-right:10px;width:100px;height:100px"} -->
 ![Picture of Raj Bhattacharjea](images/RajBhattacharjea_Nov2015_square_200px.png){: style="float:left;border-radius:50%;width:100px;height:100px;margin-right:1em;"}
 I am an Electrical Engineer by training and I'm working as a Machine Learning
@@ -22,7 +22,13 @@ and Photonics
 Near-Field Inductive Communications and Backscatter Communications
 
 Computational Electromagnetics
+________________________________________________________________________________
+# Courses Taught (Georgia Tech)
+ECE3025 Electromagnetics, Spring 2019
 
+ECE2026 Intro to Digital Signal Processing, Summer 2018 and Fall 2018
+
+ECE4012 Senior Capstone Design, Spring 2016
 ________________________________________________________________________________
 # Pre-Prints, Papers, and Presentations
 Last updated February 2023.

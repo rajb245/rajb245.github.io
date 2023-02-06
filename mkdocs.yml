@@ -3,3 +3,4 @@ markdown_extensions:
     - attr_list
 theme:
   name: material
+plugins: []

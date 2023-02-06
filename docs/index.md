@@ -28,6 +28,10 @@ ________________________________________________________________________________
 The content below is current as of 2018. I'm still working on getting the newer
 stuff put into this section, so please check out my Google Scholar or 
 ResearchGate for more up-to-date info for the time being.
+### Presentation: Photonic ICs for Channelization and Downconversion
+[![Presentation: Photonic ICs for Channelization and Downconversion](images/photonic_ics_pres.png)](https://www.osti.gov/biblio/1643122)
+### Paper: Photonic ICs for Channelization and Downconversion
+[![Paper: Photonic ICs for Channelization and Downconversion](images/photonic_ics.png)](https://ieeexplore.ieee.org/abstract/document/8908217)
 ### Presentation: Army Signal Classification Challenge
 [![Presentation: Army Signal Classification Challenge](images/ascc_final.png)](https://www.gnuradio.org/grcon/grcon18/presentations/RadioML_Redux_GTRI_Efforts_on_the_Army_Signal_Classification_Challenge/)
 ### Paper: ReMoRa

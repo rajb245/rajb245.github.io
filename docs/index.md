@@ -3,7 +3,8 @@ title: Raj Bhattacharjea
 date: 2023-02-03 10:20
 Category: About Me
 ---
-# Raj Bhattacharjea
+# Raj Bhattacharjea [![Twitter Profile](images/socials_twitter.png)](https://twitter.com/rajb245){: style="float:right;width:40px;height:40px"} [![LinkedIn Profile](images/socials_linkedin.png)](https://www.linkedin.com/in/raj-bhattacharjea/){: style="float:right;width:40px;height:40px"} [![ResearchGate Profile](images/socials_researchgate.png)](https://www.researchgate.net/profile/Raj_Bhattacharjea){: style="float:right;width:40px;height:40px"} [![Google Scholar Profile](images/socials_googlescholar.svg)](https://scholar.google.com/citations?user=kDQoTnUAAAAJ&hl=en){: style="float:right;width:40px;height:40px"}
+<br/>
 <!-- ![Picture of Raj Bhattacharjea](images/RajBhattacharjea_Nov2015_square_200px.png){: style="float:left;border-radius:50%;padding-right:10px;width:100px;height:100px"} -->
 ![Picture of Raj Bhattacharjea](images/RajBhattacharjea_Nov2015_square_200px.png){: style="float:left;border-radius:50%;width:100px;height:100px"}
 

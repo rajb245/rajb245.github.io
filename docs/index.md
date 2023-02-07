@@ -32,11 +32,13 @@ ECE4012 Senior Capstone Design, Spring 2016
 ________________________________________________________________________________
 # Pre-Prints, Papers, and Presentations
 Last updated February 2023.
-## Paper: Modulation Pattern Detection Using Complex Convolutions in Deep Learning
+## Paper: Feedback Magnitude Pruning
+[![Neural network compression with feedback magnitude pruning for automatic modulation classification](images/itu_challenge.png)](https://www.itu.int/pub/S-JNL-VOL3.ISSUE2-2022-A14)
+## Paper: Modulation Pattern Detection Using Complex Convolutions
 [![Modulation Pattern Detection Using Complex Convolutions in Deep Learning](images/mod_pattern_detection.png)](https://ieeexplore.ieee.org/abstract/document/9412382)
-## Pre-Print: High-Capacity Complex Convolutional Neural Networks For I/Q Modulation Classification
+## Pre-Print: High-Capacity Complex Convolutional Neural Networks Modulation Classification
 [![Pre-Print: High-Capacity Complex Convolutional Neural Networks For I/Q Modulation Classification](images/high_capacity_complex_conv_modrec.png)](https://arxiv.org/abs/2010.10717)
-## Paper: Complex-Valued Convolutions for Modulation Recognition using Deep Learning
+## Paper: Complex-Valued Convolutions for Modulation Recognition
 [![Complex-Valued Convolutions for Modulation Recognition using Deep Learning](images/complex_conv_modrec.png)](https://ieeexplore.ieee.org/abstract/document/9145469)
 ## Presentation: Photonic ICs for Channelization and Downconversion
 [![Presentation: Photonic ICs for Channelization and Downconversion](images/photonic_ics_pres.png)](https://www.osti.gov/biblio/1643122)
@@ -50,13 +52,13 @@ Last updated February 2023.
 [![Paper: Perfect Pulses](images/pp.png)](https://ieeexplore.ieee.org/document/7945580)
 ## Presentation: Accelerated Signal Processing on Embedded Platforms
 [![Presentation: Accelerated Signal Processing on Embedded Platforms](images/GRCon_2016_final.png)](https://youtu.be/NK4BaqBuzbk)
-## Presentation: Wireless@VT Symposium 2016
-[![Presentation: Wireless@VT Symposium 2016](images/SDR_Receiver_and_Transmitter.png)](https://www.researchgate.net/publication/304346578_Open-Source_SDR_on_Embedded_Platforms)
-## Dissertation
-[![Dissertation](images/dissertation.png)](https://www.researchgate.net/publication/304346578_Open-Source_SDR_on_Embedded_Platforms)
-## Paper: PIERS 2013 Stockholm
-[![Paper: PIERS 2013 Stockholm](images/stackup.png)](1P_11_0320.pdf)
-## Presentation: PIERS 2013 Stockholm
-[![Presentation: PIERS 2013 Stockholm](images/dipole_comparison.png)](Bhattacharjea_Presentation_PIERS2013_Stockholm.pdf)
+## Presentation: Open Source SDR on Embedded Platforms
+[![Presentation: Open Source SDR on Embedded Platforms](images/SDR_Receiver_and_Transmitter.png)](https://www.researchgate.net/publication/304346578_Open-Source_SDR_on_Embedded_Platforms)
+## Dissertation: Refractive Near-Earth UHF Channels
+[![Dissertation: Refractive Near-Earth UHF Channels](images/dissertation.png)](https://smartech.gatech.edu/handle/1853/53002)
+## Paper: Near-Ground Vertical Dipoles in Atmospheric Refractivity
+[![Paper: Near-Ground Vertical Dipoles in Atmospheric Refractivity](images/stackup.png)](1P_11_0320.pdf)
+## Presentation: Near-Ground Vertical Dipoles in Atmospheric Refractivity
+[![Presentation: Near-Ground Vertical Dipoles in Atmospheric Refractivity](images/dipole_comparison.png)](Bhattacharjea_Presentation_PIERS2013_Stockholm.pdf)
 ## Paper: Rician Fading Estimation
 [![Paper: Rician Fading Estimation](images/alpha_beta.png)](https://ieeexplore.ieee.org/document/6327312)

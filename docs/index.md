@@ -32,6 +32,8 @@ ECE4012 Senior Capstone Design, Spring 2016
 ________________________________________________________________________________
 # Pre-Prints, Papers, and Presentations
 Last updated February 2023.
+## Paper: Encoder-Decoder Networks for Bandwidth Estimation on Arrays
+This one will be added to the IEEE Xplore database soon. Until I can link to the official copy, contact me if you want to see a draft pre-print.
 ## Paper: Feedback Magnitude Pruning
 [![Neural network compression with feedback magnitude pruning for automatic modulation classification](images/itu_challenge.png)](https://www.itu.int/pub/S-JNL-VOL3.ISSUE2-2022-A14)
 ## Paper: Modulation Pattern Detection Using Complex Convolutions

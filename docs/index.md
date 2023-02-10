@@ -8,13 +8,13 @@ Category: About Me
 <!-- ![Picture of Raj Bhattacharjea](images/RajBhattacharjea_Nov2015_square_200px.png){: style="float:left;border-radius:50%;padding-right:10px;width:100px;height:100px"} -->
 ![Picture of Raj Bhattacharjea](images/RajBhattacharjea_Nov2015_square_200px.png){: style="float:left;border-radius:50%;width:100px;height:100px;margin-right:1em;"}
 I am an Electrical Engineer by training and I'm working as a Machine Learning
-Engineer for DeepSig Inc. I'm also an Adjunct Research Engineer with the School
-of Electrical and Computer Engineering at Georgia Tech. My goals include 
-conducting and publishing research in the areas of machine learning for radio
+Engineer for [DeepSig Inc.](https://www.deepsig.ai/) I'm also an Adjunct Principal Research Engineer with the
+[School of Electrical and Computer Engineering at Georgia Tech](https://ece.gatech.edu/).
+My goals include conducting and publishing research in the areas of machine learning for radio
 and optical communication systems.
 ________________________________________________________________________________
-# Recent Interests
-Machine Learning and Artificial Intelligence for Radio Signal Processing
+# Recent Research Interests
+Machine Learning and Artificial Intelligence for Communications Signal Processing
 
 Electro-Optics, Free Space Optical Communications, Fiber Optic Communications,
 and Photonics
@@ -32,7 +32,7 @@ ECE4012 Senior Capstone Design, Spring 2016
 ________________________________________________________________________________
 # Pre-Prints, Papers, and Presentations
 Last updated February 2023.
-## Paper: Encoder-Decoder Networks for Bandwidth Estimation on Arrays
+## Paper: Encoder-Decoder Networks for Signal Bandwidth Estimation on Arrays
 This one will be added to the IEEE Xplore database soon. Until I can link to the official copy, contact me if you want to see a draft pre-print.
 ## Paper: Feedback Magnitude Pruning
 [![Neural network compression with feedback magnitude pruning for automatic modulation classification](images/itu_challenge.png)](https://www.itu.int/pub/S-JNL-VOL3.ISSUE2-2022-A14)

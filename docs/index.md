@@ -11,7 +11,8 @@ I am an Electrical Engineer by training and I'm working as a Machine Learning
 Engineer for [DeepSig Inc.](https://www.deepsig.ai/) I'm also an Adjunct Principal Research Engineer with the
 [School of Electrical and Computer Engineering at Georgia Tech](https://ece.gatech.edu/).
 My goals include conducting and publishing research in the areas of machine learning for radio
-and optical communication systems.
+and optical communication systems. You'll find a bit about me here, and once in a blue
+moon I'll post about topics I'm interested in.
 ________________________________________________________________________________
 # Recent Research Interests
 Machine Learning and Artificial Intelligence for Communications Signal Processing

@@ -34,8 +34,8 @@ ________________________________________________________________________________
 # Pre-Prints, Papers, and Presentations
 Last updated July 2023.
 ## Pre-Print: Encoder-Decoder Networks for Signal Bandwidth Estimation on Arrays
-This one was accepted for publication at IEEE Array 2022, but we missed the deadline for submitting
-the final camera-ready files (oops). So, here's the arXiv version.
+This one was accepted for publication at IEEE Array 2022 and my co-author, Nathan West, presented results of this work at the conference.
+However, we missed the deadline for submitting the final camera-ready files for archival on IEEE Xplore (oops). So, here's the arXiv version.
 [![Encoder-Decoder Networks for Self-Supervised Pretraining and Downstream Signal Bandwidth Regression on Digital Antenna Arrays](images/array_2022.png)](https://arxiv.org/abs/2307.03327)
 ## Paper: Feedback Magnitude Pruning
 [![Neural network compression with feedback magnitude pruning for automatic modulation classification](images/itu_challenge.png)](https://www.itu.int/pub/S-JNL-VOL3.ISSUE2-2022-A14)

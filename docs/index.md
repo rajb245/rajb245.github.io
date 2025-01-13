@@ -15,10 +15,25 @@ and optical communication systems. You'll find a bit about me here, and once in 
 moon I'll post about topics I'm interested in.
 ________________________________________________________________________________
 # Research Interests
-The common threads here are electromagnetics, signal processing, and machine learning.
-At various times I've been interested in applying these techniques to free space optical
-communications, fiber optic communications, photonic signal processing, near-field inductive
-communications, backscatter, and computational electromagnetics.
+The common threads that tie together my work are:
+
+Electromagnetics / Computational EM
+
+Signal processing
+
+Machine learning.
+
+At various times I've been interested in applying these techniques to the following domains:
+
+Free space optical communications
+
+Fiber optic communications
+
+Photonic signal processing
+
+Near-field inductive communications
+
+Backscatter communications
 ________________________________________________________________________________
 # Courses Taught (Georgia Tech)
 ECE3025 Electromagnetics, Spring 2019

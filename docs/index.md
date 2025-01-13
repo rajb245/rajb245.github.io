@@ -7,8 +7,8 @@ Category: About Me
 <!-- :simple-googlescholar::fontawesome-brands-researchgate::fontawesome-brands-linkedin::fontawesome-brands-square-twitter: -->
 <!-- ![Picture of Raj Bhattacharjea](images/RajBhattacharjea_Nov2015_square_200px.png){: style="float:left;border-radius:50%;padding-right:10px;width:100px;height:100px"} -->
 ![Picture of Raj Bhattacharjea](images/headshot_2024_200px.JPG){: style="float:left;border-radius:50%;width:100px;height:100px;margin-right:1em;"}
-I am an Electrical Engineer by training and I'm working as a Machine Learning
-Engineer for [DeepSig Inc.](https://www.deepsig.ai/) I'm also an Adjunct Principal Research Engineer with the
+I am an Electrical Engineer working as the Director of Machine Learning
+for [DeepSig Inc.](https://www.deepsig.ai/) I'm also an Adjunct Principal Research Engineer with the
 [School of Electrical and Computer Engineering at Georgia Tech](https://ece.gatech.edu/).
 My goals include conducting and publishing research in the areas of machine learning for radio
 and optical communication systems. You'll find a bit about me here, and once in a blue

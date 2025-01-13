@@ -17,23 +17,17 @@ ________________________________________________________________________________
 # Research Interests
 The common threads that tie together my work are:
 
-Electromagnetics / Computational EM
-
-Signal processing
-
-Machine learning.
+* Electromagnetics / Computational EM
+* Signal processing
+* Machine learning
 
 At various times I've been interested in applying these techniques to the following domains:
 
-Free space optical communications
-
-Fiber optic communications
-
-Photonic signal processing
-
-Near-field inductive communications
-
-Backscatter communications
+* Free space optical communications
+* Fiber optic communications
+* Photonic signal processing
+* Near-field inductive communications
+* Backscatter communications
 ________________________________________________________________________________
 # Courses Taught (Georgia Tech)
 ECE3025 Electromagnetics, Spring 2019

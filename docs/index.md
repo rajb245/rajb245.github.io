@@ -14,15 +14,11 @@ My goals include conducting and publishing research in the areas of machine lear
 and optical communication systems. You'll find a bit about me here, and once in a blue
 moon I'll post about topics I'm interested in.
 ________________________________________________________________________________
-# Recent Research Interests
-Machine Learning and Artificial Intelligence for Communications Signal Processing
-
-Electro-Optics, Free Space Optical Communications, Fiber Optic Communications,
-and Photonics
-
-Near-Field Inductive Communications and Backscatter Communications
-
-Computational Electromagnetics
+# Research Interests
+The common threads here are electromagnetics, signal processing, and machine learning.
+At various times I've been interested in applying these techniques to free space optical
+communications, fiber optic communications, photonic signal processing, near-field inductive
+communications, backscatter, and computational electromagnetics.
 ________________________________________________________________________________
 # Courses Taught (Georgia Tech)
 ECE3025 Electromagnetics, Spring 2019

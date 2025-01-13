@@ -31,7 +31,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x' # Adjust to the version of Python you use for mkdocs
+          python-version: '3.9' # Adjust to the version of Python you use for mkdocs
 
       - name: Install mkdocs and dependencies
         run: |
@@ -41,13 +41,15 @@ jobs:
       - name: Build the static site
         run: mkdocs build
 
-      - name: Commit built site
+      - name: Commit and push built site
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add site
-          git commit -m "Build site using mkdocs [skip ci]"
-        continue-on-error: true # Avoid failure if no changes to commit
+          git commit -m "Build site using mkdocs [skip ci]" || echo "No changes to commit"
+          git push origin master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   # Deploy job to push the site to GitHub Pages
   deploy:

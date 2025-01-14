@@ -1,2 +1,2 @@
 # rajb245.github.io
-This is the source repo for my Github Pages homepage. It is built with `mkdocs build`, which puts the static site HTML/CSS/JS into the `site` directory. I then check in both the site source and the static site files, and there is a Github action in this repo that triggers the deployment of the `site` directory to Github pages. There is a more correct way to do this that involves doing the `mkdocs build` step using Github actions too, but I'm too lazy to figure that out right now; this workflow makes and serves the static site so I'm happy enough.
+This is the source repo for my Github Pages homepage. The build of the static site and its deployment to github pages is all done in CI, take a look at the `.github/workflows/static.yml`.

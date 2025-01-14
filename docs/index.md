@@ -37,7 +37,9 @@ ECE2026 Intro to Digital Signal Processing, Summer 2018 and Fall 2018
 ECE4012 Senior Capstone Design, Spring 2016
 ________________________________________________________________________________
 # Pre-Prints, Papers, and Presentations
-Last updated October 2024.
+Last updated January 2025.
+## Pre-Print: 3D Geometry Extraction for Sionna RT and Sensitivity Analysis
+[![OpenGERT: Open Source Automated Geometry Extraction with Geometric and Electromagnetic Sensitivity Analyses for Ray-Tracing Propagation Models](images/openGERT.png)](https://www.arxiv.org/abs/2501.06945)
 ## Pre-Print: Site-Specific Propagation Measurements Improve Learned 5G Processing Algorithms
 This is the pre-print for our accepted submission to the ritiRAN Workshop that occurred at IEEE VTC2024-Fall in October 2024. It is slated to  appear on IEEE Xplore in the future.
 [![How Critical is Site-Specific RAN Optimization? 5G Open-RAN Uplink Air Interface Performance Test and Optimization from Macro-Cell CIR Data](images/ritiran.png)](https://arxiv.org/abs/2410.19565)

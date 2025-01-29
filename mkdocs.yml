@@ -7,4 +7,12 @@ markdown_extensions:
 
 theme:
   name: material
+  features:
+    - navigation.sections
+
+nav:
+  - Professional Profile: index.md
+  - Other Content:
+     - 1D Function Approximation: gelu_approx.md
+
 plugins: []

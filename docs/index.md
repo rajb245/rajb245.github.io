@@ -10,9 +10,9 @@ Category: About Me
 I am an Electrical Engineer working as the Director of Machine Learning
 for [DeepSig Inc.](https://www.deepsig.ai/) I'm also an Adjunct Principal Research Engineer with the
 [School of Electrical and Computer Engineering at Georgia Tech](https://ece.gatech.edu/).
-My goals include conducting and publishing research in the areas of machine learning for radio
-and optical communication systems. You'll find a bit about me here, and once in a blue
-moon I'll post about topics I'm interested in.
+My goals include conducting and publishing research in the areas of machine learning 
+communication systems. You'll find a bit about me here, and once in a blue moon I'll
+post other content about topics I'm interested in.
 ________________________________________________________________________________
 # Research Interests
 The common threads that tie together my work are:

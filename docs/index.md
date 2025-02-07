@@ -23,6 +23,7 @@ The common threads that tie together my work are:
 
 At various times I've been interested in applying these techniques to the following domains:
 
+* Commercial wireless communications
 * Free space optical communications
 * Fiber optic communications
 * Photonic signal processing

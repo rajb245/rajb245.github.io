@@ -41,9 +41,9 @@ ________________________________________________________________________________
 Last updated January 2025.
 ## Pre-Print: 3D Geometry Extraction for Sionna RT and Sensitivity Analysis
 [![OpenGERT: Open Source Automated Geometry Extraction with Geometric and Electromagnetic Sensitivity Analyses for Ray-Tracing Propagation Models](images/openGERT.png)](https://www.arxiv.org/abs/2501.06945)
-## Pre-Print: Site-Specific Propagation Measurements Improve Learned 5G Processing Algorithms
-This is the pre-print for our accepted submission to the ritiRAN Workshop that occurred at IEEE VTC2024-Fall in October 2024. It is slated to  appear on IEEE Xplore in the future.
-[![How Critical is Site-Specific RAN Optimization? 5G Open-RAN Uplink Air Interface Performance Test and Optimization from Macro-Cell CIR Data](images/ritiran.png)](https://arxiv.org/abs/2410.19565)
+## Site-Specific Propagation Measurements Improve Learned 5G Processing Algorithms
+[![How Critical is Site-Specific RAN Optimization? 5G Open-RAN Uplink Air Interface Performance Test and Optimization from Macro-Cell CIR Data](images/ritiran.png)](https://ieeexplore.ieee.org/document/10757968)
+An arXiv [preprint](https://arxiv.org/abs/2410.19565) is available for those without IEEE Xplore access
 ## Pre-Print: Encoder-Decoder Networks for Signal Bandwidth Estimation on Arrays
 This one was accepted for publication at IEEE Array 2022 and my co-author, Nathan West, presented results of this work at the conference.
 However, we missed the deadline for submitting the final camera-ready files for archival on IEEE Xplore (oops). So, here's the arXiv version.
